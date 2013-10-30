@@ -1,0 +1,17 @@
+#######################################################################################################
+# File Name     : gcal.meta
+# Description   : gcal.meta file maintains information all gcal files.
+# Create Date   : 19-Oct-13
+# Modified Date : 19-Oct-13
+# Version       : 1.0
+# Company       : DevGyana
+# Authour       : Girisha Narayana
+# Modifer       : Girisha Narayana
+# Format        : string|string 
+# Email	        : gnarayana77.dev.gyana@gmail.com ( Authour's )
+# Email	        : gnarayana77.dev.gyana@gmail.com ( Modifier's)
+#######################################################################################################
+gradeTable:gcalGradeTable.cfg
+msgTable:gcalMsgTable.cfg
+semScoreTable:gcalSemScore.cfg
+courseSem:gcalCrsSem.cfg

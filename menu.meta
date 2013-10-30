@@ -1,0 +1,26 @@
+#######################################################################################################
+# File Name     : menu.meta
+# Description   : menu.meta file maintains information all menu files.
+# Create Date   : 19-Oct-13
+# Modified Date : 19-Oct-13
+# Version       : 1.0
+# Company       : DevGyana
+# Authour       : Girisha Narayana
+# Modifer 	    : Girisha Narayana
+# Format        : type|MenuName|items|from|[FileName]
+# 		          * type - console(c or C) , gui(g or G) , html ( h or H ) 
+#		          * MenuName - Main Menu or Config Menu or Grade Menu or Grade Config Menu or 
+#		            Message Config Menu or Score Config Menu or Course Config Menu  
+#		          * From - file(f or F) or cache ( c or C )
+#		          * FileName - if From is file then corresponding fileName
+#		          * items - numbers of choices ( integer ) or variable (v or V ) 
+# Email		    : gnarayana77.dev.gyana@gmail.com ( Authour's )
+# Email		    : gnarayana77.dev.gyana@gmail.com ( Modifier's)
+#######################################################################################################
+c|MainMenu|3|f|mainMenu.ui
+c|ConfigMenu|6|f|ConfigMenu.ui
+c|GradeMenu|4|f|GradeMenu.ui
+c|GradeConfigMenu|6|c
+c|MessageConfigMenu|11|c
+c|ScoreConfigMenu|v|c
+c|CourseConfigMenu|5|c

@@ -1,0 +1,23 @@
+#######################################################################################
+#	File Name     : configMenu.ui
+#	Description   : Design of user interface Configuration Menu.
+#	Create Date   : 27-Oct-2013
+#	Modified Date : 27-Oct-2013
+#	Authour       : Girisha Narayana ( girishanayak )
+#	Modifier      : Santhosh Kumar S ( santhosh )
+#	Vesrion       : 1.0
+#	Case Study    : gcal ( case-00 )
+#	Email Id      : gnarayana77.dev.gyana@gmail.com ( Author )
+#	Email Id      : tsanthuu.dev.gyana@gmail.com ( Modifier )
+###########################################################################################
+==================================== 
+		CONFIGURATION MENU
+==================================== 
+< 1 > VIEW GRADE CONFIGURATION.
+< 2 > VIEW MESSAGE CONFIGURATION.
+< 3 > VIEW COURSE SEM CONFIGURATION.
+< 4 > VIEW SEM SCORE CONFIGURATION.
+< 5 > BACK TO MAIN MENU.
+< 6 > EXIT.
+==================================== 
+Please enter your Choice : 

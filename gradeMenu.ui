@@ -1,0 +1,21 @@
+#######################################################################################
+#	File Name     : gradeMenu.ui
+#	Description   : Design of user interface GradeMenu.
+#	Create Date   : 27-Oct-2013
+#	Modified Date : 27-Oct-2013
+#	Authour       : Girisha Narayana ( girishanayak )
+#	Modifier      : Monish ( monish )
+#	Vesrion       : 1.0.1
+#	Case Study    : gcal ( case-00 )
+#	Email Id      : gnarayana77.dev.gyana@gmail.com ( Author )
+#	Email Id      : tsanthuu.dev.gyana@gmail.com ( Modifier )
+###########################################################################################
+==============================
+			GRADE MENU            
+==============================
+< 1 >	GRADE - CURRENT SEM.
+< 2 >	GRADE - All SEMS.
+< 3 >	BACK TO MAIN MENU.
+< 4 > EXIT.
+==============================
+Please enter your Choice :
